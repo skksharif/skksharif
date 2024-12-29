@@ -31,8 +31,6 @@ I can navigate and optimize databases in the blink of an eye with **MongoDB** an
 ### **⚡ Brainstorm Mode (AI):**
 I unleash **Machine Learning** models to give your apps brains and predictive powers.
 
-> "A good dev knows code, a great dev knows when to **refactor**." - *Spider-Dev*
-
 ---
 
 ## 🔧 **My Omnitrix Tech Stack:**
