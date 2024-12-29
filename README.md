@@ -1,4 +1,6 @@
-# 💥 **It’s Hero Time! 👽** 
+<div style="background-color:black;color:green;">
+
+  # 💥 **It’s Hero Time! 👽** 
 
 <div align="center" style="background-color: #101010; color: white; padding: 20px; border-radius: 10px;">
 
@@ -29,7 +31,7 @@ From **React** to **Android Studio**, I transform into various dev modes to squa
 
 ## 🦸‍♂️ **My Omnitrix Powers**:
 
-<div align="center" style="background-color: #101010; color: #00ff00; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px #00ff00;">
+<div align="center" style="background-color: ; color: #228B22; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px #00ff00;">
 
 <table style="width: 100%; text-align: center; color: white; border-collapse: collapse; background-color: #1a1a1a;">
   <tr>
@@ -57,7 +59,7 @@ From **React** to **Android Studio**, I transform into various dev modes to squa
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="padding: 10px; border: 1px solid #00ff00;">
+    <td colspan="2" style="padding: 10px; border: 1px solid green;">
       <img src="https://static.wikia.nocookie.net/ben10/images/e/e9/Accurate_Brainstorm.png/revision/latest/scale-to-width-down/1000?cb=20210314023450" alt="Brainstorm" width="70" />
       <h3>⚡ Brainstorm Mode</h3>
       <p>Unleashing the power of AI and <br> **Machine Learning**.</p>
@@ -69,9 +71,9 @@ From **React** to **Android Studio**, I transform into various dev modes to squa
 
 ---
 
-<div align="center" style="background-color: #101010; color: white; padding: 15px; border-radius: 10px;">
+<div align="center" style="background-color: #101010; color: white; padding: 5px; border-radius: 10px; border:1px solid green;">
 
-### 🌌 **Visitors**  
+### **Visitors**  
 ![Visitor Count](https://profile-counter.glitch.me/YourGitHubUsername/count.svg)
 
 *"Time to go hero!"* 🦸‍♂️  
@@ -79,3 +81,5 @@ From **React** to **Android Studio**, I transform into various dev modes to squa
 </div>
 
 ---
+
+</div>
