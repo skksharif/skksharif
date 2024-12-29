@@ -1,6 +1,6 @@
 <div style="background-color:black;color:green;">
 
-  # 💥 **It’s Hero Time! 👽** 
+  # 💥 **It’s Hero Time!  <img src="https://play-lh.googleusercontent.com/muwussmDegC4eLwdN-pc1VeaBEbIsKkDflXaml1HzgvWFpRZhIE2x6XGe-Si4f1Krg" alt="Omnitrix Icon" width="150" />** 
 
 <div align="center" style="background-color: #101010; color: white; padding: 20px; border-radius: 10px;">
 
