@@ -22,9 +22,9 @@ From **React** to **Android Studio**, I transform into various dev modes to squa
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&color=00b140) 
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white&color=00b140)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&color=00b140) 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android&logoColor=white&color=00b140)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white&color=00b140)
 ![AI](https://img.shields.io/badge/AI-Blue?style=flat&logo=ai&logoColor=white&color=00b140)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white&color=00b140)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android&logoColor=white&color=00b140)
 
 </div>
 
