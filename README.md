@@ -8,8 +8,6 @@
 
 From **React** to **Android Studio**, I transform into various dev modes to squash bugs and save the day! 🦸‍♂️
 
-<img src="https://media1.tenor.com/m/CfgU30sl8SoAAAAd/heatblast.gif" alt="Heatblast Logo" width="150" style="margin: 10px;" />
-
 </div>
 
 ---
