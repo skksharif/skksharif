@@ -1,4 +1,4 @@
-<div style="background-color:black;color:green;padding:10px;">
+
 
 # 💥 **It’s Hero Time!** <img src="https://play-lh.googleusercontent.com/muwussmDegC4eLwdN-pc1VeaBEbIsKkDflXaml1HzgvWFpRZhIE2x6XGe-Si4f1Krg" alt="Omnitrix Icon" width="30" />
 
@@ -29,7 +29,7 @@
 
 ---
 ## 🛠️ **Currently Capturing**  
-**Just like Ben scans aliens, I scan new tech! Now exploring **Next.js**, I transform into ultimate forms from **JavaScript** to **TypeScript** to level up my full-stack skills! 🚀**  
+<p>Just like Ben scans aliens, I scan new tech! Now exploring **Next.js**, I transform into ultimate forms from **JavaScript** to **TypeScript** to level up my full-stack skills! 🚀</p>  
 ---  
 
 
@@ -53,6 +53,5 @@
 
 ---
 
-</div>
 
 First Mobile App : https://cgpaconvert.en.uptodown.com/android
