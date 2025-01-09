@@ -29,7 +29,7 @@
 
 ---
 ## 🛠️ **Currently Capturing**  
-**Just like Ben scans aliens, I scan new tech! From **JavaScript** to **TypeScript** and now exploring **Next.js**, I transform into ultimate forms to level up my full-stack skills! 🚀**  
+**Just like Ben scans aliens, I scan new tech! Now exploring **Next.js**, I transform into ultimate forms from **JavaScript** to **TypeScript** to level up my full-stack skills! 🚀**  
 ---  
 
 
