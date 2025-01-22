@@ -28,10 +28,6 @@
 </div>
 
 ---
-## 🛠️ **Currently Capturing**  
-<p>Just like Ben scans aliens, I scan new tech! Now exploring **Next.js**, I transform into ultimate forms from **JavaScript** to **TypeScript** to level up my full-stack skills! 🚀</p>  
----  
-
 
 <div align="center" style="background-color: #101010; color: white; padding: 5px; border-radius: 10px; border:1px solid green;">
 
