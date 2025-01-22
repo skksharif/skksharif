@@ -28,7 +28,6 @@
 ### **Visitors**  
  
 ![Visitor Count](https://profile-counter.glitch.me/YourGitHubUsername/count.svg)
-*"Time to go hero!"* 🦸‍♂️ 
  
 </div>
 ---
