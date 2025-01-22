@@ -4,6 +4,7 @@
   *"An alien device attached itself to my wrist, sparking a journey of limitless possibilities."*  
   With the Omnitrix of development, I transform into multiple dev forms, and more, mastering dev modes to squash bugs and save the day! 🦸‍♂️
 </div>
+
 ---
 
 ## 🔧 **My Omnitrix Tech Stack**:
@@ -19,11 +20,17 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white&color=00b140)
 
 </div>
+
 ---
+
 <div align="center" style="background-color: #101010; color: white; padding: 0px; border-radius: 10px; border:1px solid green;">
+ 
 ### **Visitors**  
+ 
 ![Visitor Count](https://profile-counter.glitch.me/YourGitHubUsername/count.svg)
-*"Time to go hero!"* 🦸‍♂️  
+*"Time to go hero!"* 🦸‍♂️ 
+ 
 </div>
 ---
+
 First Mobile App : https://cgpaconvert.en.uptodown.com/android
