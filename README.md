@@ -1,10 +1,9 @@
 
 
-# 💥 **It’s Hero Time!**
 <div align="center" style="background-color: #101010; color: white; padding: 15px; border-radius: 10px;">
 
   *"An alien device attached itself to my wrist, sparking a journey of limitless possibilities."*  
-  With the Omnitrix of development, I transform into **React**, **Android Studio**, and more, mastering dev modes to squash bugs and save the day! 🦸‍♂️
+  With the Omnitrix of development, I transform into multiple dev forms, and more, mastering dev modes to squash bugs and save the day! 🦸‍♂️
 
 </div>
 
