@@ -1,7 +1,6 @@
 
 
-# 💥 **It’s Hero Time!** <img src="https://play-lh.googleusercontent.com/muwussmDegC4eLwdN-pc1VeaBEbIsKkDflXaml1HzgvWFpRZhIE2x6XGe-Si4f1Krg" alt="Omnitrix Icon" width="30" />
-
+# 💥 **It’s Hero Time!**
 <div align="center" style="background-color: #101010; color: white; padding: 15px; border-radius: 10px;">
 
   *"An alien device attached itself to my wrist, sparking a journey of limitless possibilities."*  
