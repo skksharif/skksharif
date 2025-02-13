@@ -22,6 +22,8 @@
 </div>
 
 ---
+My Resume : https://drive.google.com/file/d/1G342wanGKN-4hBd0cmVT6G6lIFbs1P-Y/view?usp=sharing
+---
 
 <div align="center" style="background-color: #101010; color: white; padding: 0px; border-radius: 10px; border:1px solid green;">
  
