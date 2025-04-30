@@ -9,7 +9,6 @@
 
 ### 🧑‍💻 About Me
 
-- 💡 Final Year B.Tech Student  
 - ⚙️ Specializing in **MERN Stack**, **Next.js**
 - 📲 Also exploring **Android Development** with Kotlin
 - 🧠 Always learning
