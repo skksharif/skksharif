@@ -1,35 +1,63 @@
+<h1 align="center">Hi 👋, I'm Sharif</h1>
+<h3 align="center">🚀 Passionate Full Stack Developer | Blockchain and AI Enthusiast | Lifelong Learner</h3>
 
-
-<div align="center" style="background-color: #101010; color: white; padding:0px; border-radius: 10px;">
-  *"An alien device attached itself to my wrist, sparking a journey of limitless possibilities."*  
-  With the Omnitrix of development, I transform into multiple dev forms, and more, mastering dev modes to squash bugs and save the day! 🦸‍♂️
-</div>
-
----
-
-## 🔧 **My Omnitrix Tech Stack**:
-<div align="center" style="background-color: #101010; color: white; padding: 10px; border-radius: 10px;">
- 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&color=00b140) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&color=00b140) 
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white&color=00b140)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&color=00b140) 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white&color=00b140)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android&logoColor=white&color=00b140)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white&color=00b140)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white&color=00b140)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Blockchain+Innovator;Tech+Explorer+&center=true&width=500&height=30" />
+</p>
 
 ---
 
-<div align="center" style="background-color: #101010; color: white; padding: 0px; border-radius: 10px; border:1px solid green;">
- 
-### **Visitors**  
- 
-![Visitor Count](https://profile-counter.glitch.me/YourGitHubUsername/count.svg)
- 
-</div>
+### 🧑‍💻 About Me
 
-My Resume : https://drive.google.com/file/d/1G342wanGKN-4hBd0cmVT6G6lIFbs1P-Y/view?usp=sharing <br/>
-First Mobile App : https://cgpaconvert.en.uptodown.com/android
+- 💡 Final Year B.Tech Student  
+- ⚙️ Specializing in **MERN Stack**, **Next.js**
+- 📲 Also exploring **Android Development** with Kotlin
+- 🧠 Always learning
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Frontend
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
+
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+
+
+#### 📱 Mobile
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+</p>
+
+---
+
+### 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/skksharif" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:khasimsharif12@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://skksharif.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+### ✨ Featured Projects
+
+- 🔗 **CertiChain** – Blockchain-based certificate validator using ICP + IPFS  
+- 🏥 **LetterSync** – Write, edit, and save letters effortlessly with an editor   
+
+---
+
+> _“Code is not just code, it's a solution waiting to make a difference.”_
+
