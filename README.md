@@ -49,14 +49,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=skksharif&theme=swift&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skksharif&theme=swift&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skksharif&theme=swift&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
