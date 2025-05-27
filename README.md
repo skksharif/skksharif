@@ -71,13 +71,6 @@
 
 ---
 
-## 👀 Visitor Count
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=skksharif&icon=4&color=1" alt="Visitor Count" />
-</p>
-
----
 
 <p align="center">
   <em>“Code is not just code, it's a solution waiting to make a difference.”</em>
