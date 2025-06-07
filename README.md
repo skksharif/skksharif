@@ -64,14 +64,6 @@
 
 ---
 
-## 📜 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
----
-
 
 <p align="center">
   <em>“Code is not just code, it's a solution waiting to make a difference.”</em>
