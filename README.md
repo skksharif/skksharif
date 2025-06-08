@@ -61,10 +61,7 @@
   </a>
 </p>
 
-
 ---
-
-
 <p align="center">
   <em>“Code is not just code, it's a solution waiting to make a difference.”</em>
 </p>
