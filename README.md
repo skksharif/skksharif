@@ -10,7 +10,6 @@
 ## 🧑‍💻 About Me
 
 - 💼 Currently working with **MERN Stack** and **Next.js**
-- 📱 Exploring **Android Development** with **Kotlin**
 - 🧠 Always learning something new in **Tech**, especially **Blockchain** & **AI**
 
 ---
@@ -20,7 +19,6 @@
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   
