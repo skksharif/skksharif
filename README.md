@@ -42,24 +42,6 @@
 </p>
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skksharif&theme=swift&hide_border=false" alt="Sharif's GitHub Streak" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/skksharif" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
 <p align="center">
   <em>“Code is not just code, it's a solution waiting to make a difference.”</em>
 </p>
