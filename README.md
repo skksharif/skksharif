@@ -1,16 +1,9 @@
-<h1 align="center">👋 Hi, I'm Sharif</h1>
-<h3 align="center">🚀 Full Stack Developer | 🧠 AI & Blockchain Enthusiast | 📚 Lifelong Learner</h3>
+<h2 align="center">Hi, I'm Sharif</h1>
+<h3 align="center">Full Stack Developer  | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Tech+Explorer;MERN+%7C+Next.js" alt="Typing SVG" />
 </p>
-
----
-
-## 🧑‍💻 About Me
-
-- 💼 Currently working with **MERN Stack** and **Next.js**
-- 🧠 Always learning something new in **Tech**, especially **Blockchain** & **AI**
 
 ---
 
